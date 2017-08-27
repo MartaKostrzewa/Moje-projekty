@@ -1,0 +1,72 @@
+body{
+    background-color: cadetblue;
+    margin: 100px;
+    padding: 20px 50px;
+    font-family: Kurale;
+    
+}
+
+.kot{
+    display: block-flex;
+    text-align: center;
+    margin: auto;
+    letter-spacing: 1.5px;
+   
+}
+
+ 
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 0px 10px;
+    
+}
+
+p{
+    margin-right: 400px;
+    font-size: 18px;
+    
+}
+
+.zycie{
+    
+    text-align: left;
+    background-color:beige;
+    padding: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    
+    
+}
+
+.karma{
+    
+    text-align: left;
+    background-color: darkgray;
+    padding: 100px;  
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.karma1,
+.karma2,
+.karma3{
+    height: 200px;
+    width: 200px;
+    display: inline-block;
+    padding: 20px 20px;
+}
+
+.kociak{
+    width: 240px;    
+}
+
+.zycie,
+.karma{
+    box-shadow: 1px 5px 5px 2px black;
+    
+}
+
+
+

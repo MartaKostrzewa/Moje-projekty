@@ -1,0 +1,159 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.kontener {
+                width: 800px;
+                margin: auto;
+                margin-top: 60px; 
+                font-size: 18px;
+                background-color: #A94343;
+                padding: 20px;
+                color: azure;
+                box-shadow: 2px 1px 1px 2px grey;
+                font-family: 'Indie Flower', cursive;
+
+                
+            }
+          
+            .nagłówek {
+                text-align: center;
+            }
+            
+            .rzad{
+                width: 700px;
+                display: flex;
+                margin-right: 150px;
+            }
+            .zdjecie{
+                width: 250px;
+                display: inline-block;
+                vertical-align: top;
+                
+            }
+            
+            .lewa-sekcja{
+                width: 70%;            }
+            .prawa-sekcja{
+                width: 30%;
+            }
+            .Kategorie{
+                display: inline-block;
+                width: 250px;
+            }
+            .Moce{
+                display: inline-block;
+                width: 250px;
+            }
+            .Kolor{
+                display: inline-block;
+                width: 250px;
+            }
+            .nawigacja{
+                width: 800px;
+                margin: auto;
+                display: flex;
+                justify-content: space-around; 
+                margin-top: 40px;
+            }
+            .nawigacja a{
+                font-size: 20px;
+
+                color:cadetblue;
+                text-decoration: none;
+            }
+            .nawigacja a:hover {
+                border-bottom: 1px solid violet;
+                
+            }
+
+.projekt{
+    max width: 1000px;
+    margin: auto;
+    margin-top: 0px;
+    display: flex;
+    
+}
+
+.lewa-sekcja,
+.prawa-sekcja{
+    width: 50%;
+    padding: 100px;
+
+}
+
+.lewa-sekcja{
+    background: #FF6666;
+    
+}
+
+
+.góra h1,
+.dół h1{
+    color: beige;
+    text-align: center;
+    
+}
+
+.nagłówek h3{
+    text-align: left;
+}
+.prawa-sekcja{
+    background: #CCFF00;
+    
+}
+
+button{
+    background: #CCFF00;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 40px;
+    
+    
+}
+.Martianka{
+    width: 100%;
+
+} 
+.kot{
+    width: 250px;
+    display: inline-block;
+    padding: flex;
+    
+}
+.góra{
+    background: #669999;
+    padding: 50px;
+    
+    
+}
+.dół{
+    background: #C2C283;
+    padding: 50px;
+    
+    
+}
+.karma1,
+.karma2,
+.karma3{
+    width: 300px;
+    display: inline-block;
+    margin-left: 30px;
+    margin-right: 50px;
+    
+    
+}
+
+.karma1 li,
+.karma2 li,
+.karma3 li{
+    display: inline-block;
+    width: 300px;
+    list-style: none;
+    text-align: center;
+    color: #669999;
+    font-size: 22px;
+    vertical-align: baseline;
+    
+}
+
